@@ -1,0 +1,19 @@
+{
+	"project-grid": [
+		{
+			"imageUrl": "https://placehold.co/600x400?text=Project+Cover",
+			"projectName": "Project name",
+			"solution": "Solution description",
+			"caseStudy": "Detailed case study content"
+		}
+	],
+	"projects": [
+		{
+			"projectName": "Demo Project",
+			"solution": "solution",
+			"caseStudy": "case study",
+			"liveLink": "https://example.com",
+			"imageUrl": "https://placehold.co/600x400"
+		}
+	]
+}
