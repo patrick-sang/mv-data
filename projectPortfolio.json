@@ -1,7 +1,7 @@
 {
 	"project-grid": [
 		{
-			"imageUrl": "https://placehold.co/600x400?text=Project+Cover",
+			"imageUrl": "https://cdn.jsdelivr.net/gh/patrick-sang/mv-data@536b54d29aa82c4a793c1da9c01197a7e03a005b/images/1000036044.jpg",
 			"projectName": "Project name",
 			"solution": "Solution description",
 			"caseStudy": "Detailed case study content"
